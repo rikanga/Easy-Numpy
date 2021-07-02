@@ -9,7 +9,7 @@ arr = np.array([30, 17, 15])
 variance = np.var(arr)
 
 # an other method for calculating variance
-var = var.var()
+var = arr.var()
 
 """
 Test
